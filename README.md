@@ -8,6 +8,8 @@ BZ mods will always support picking and choosing your own loadout. But if you li
 
 There you go! That should be all you need to get started all you need to get started.
 
+----
+
 If you're interested, here's a diagram of what is in each modpack.
 
 ![BZ modpack description](https://lucid.app/publicSegments/view/f446214b-6609-48ba-986e-6f9b5db95603/image.png)
