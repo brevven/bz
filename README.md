@@ -16,4 +16,5 @@ If you're interested, here's a diagram of what is in each modpack.
 
 
 ### See also
+- [A table of all mods](https://brevven.github.io/bz/mods/all)
 - [Forum](https://forums.factorio.com/viewtopic.php?f=190&t=98515)
