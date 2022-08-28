@@ -1,4 +1,7 @@
 
+Here is a list of all the current game-changing mods in the BZ collection. Exact complexity will vary with mod settings, mod combinations within BZ, and combinations with other mods. That's why
+
+
 Mod | Complexity &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Additions | Stage
 --|--|--|--
 [![Titanium](https://raw.githubusercontent.com/brevven/titanium/master/thumbnail.png)](https://mods.factorio.com/mod/bztitanium)|😭|Titanium ore and plates|After chemical science
@@ -14,4 +17,3 @@ Mod | Complexity &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Additions | Stage
 
 
 
-A note on "complexity". Exact complexity will vary with mod settings, mod combinations within BZ, and combinations with other mods. That's why
