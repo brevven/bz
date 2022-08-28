@@ -5,7 +5,7 @@ Here is a list of all the current game-changing mods in the BZ collection. Exact
 Mod | Complexity &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Additions | Stage
 --|--|--|--
 [![Titanium](https://raw.githubusercontent.com/brevven/titanium/master/thumbnail.png)](https://mods.factorio.com/mod/bztitanium)|😭|Titanium ore and plates|After chemical science
-[![Silica & Silicon](https://raw.githubusercontent.com/brevven/silicon/master/thumbnail.png)](https://mods.factorio.com/mod/bzsilicon)|😭😭|Silica, silicon, other optional additions|Early game, more later game.
+[![Silica & Silicon](https://raw.githubusercontent.com/brevven/silicon/master/thumbnail.png)](https://mods.factorio.com/mod/bzsilicon)|😭😭+|Silica, silicon, other optional additions|Early game, more later game.
 [![Lead](https://raw.githubusercontent.com/brevven/lead/main/thumbnail.png)](https://mods.factorio.com/mod/bzlead)|😭|Adds lead ore and plates|Mostly affects early game
 [![Tungsten](https://raw.githubusercontent.com/brevven/tungsten/main/thumbnail.png)](https://mods.factorio.com/mod/bztungsten)|😭😭+|Adds tungsten ore, plates, and tungsten carbide, other options|Mid game
 [![Zirconium](https://raw.githubusercontent.com/brevven/zirconium/main/thumbnail.png)](https://mods.factorio.com/mod/bzzirconium)|😭😭😭|Adds zircon, zirconia, zirconium, cermet|Minor early game impact, big late game impact
