@@ -1,8 +1,6 @@
 # A Quick Introduction to BZ Mods
 
-## NOTE _BZ Bees modpacks are not yet released_
-
-BZ mods will always support picking and choosing your own loadout. But if you like here's a guide to get you started.
+[BZ mods](https://forums.factorio.com/viewtopic.php?f=190&t=98515) will always support picking and choosing your own loadout. But if you like here's a guide to get you started.
 
 ![BZ mod choice flow diagram](https://lucid.app/publicSegments/view/b77ce2f0-1601-4003-ba3a-e12e999b6453/image.png)
 
