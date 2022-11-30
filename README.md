@@ -4,7 +4,7 @@
 
 ![BZ mod choice flow diagram](https://lucid.app/publicSegments/view/b77ce2f0-1601-4003-ba3a-e12e999b6453/image.png)
 
-There you go! That should be all you need to get started all you need to get started.
+There you go! That should be all you need to get started.
 
 ----
 
