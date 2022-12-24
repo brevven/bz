@@ -13,7 +13,7 @@ Mod | Complexity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Additions | Stage
 [![Aluminum](https://raw.githubusercontent.com/brevven/aluminum/main/thumbnail.png)](https://mods.factorio.com/mod/bzaluminum)|😭😭😭😭|Adds aluminum ore and plates, and alloys|Heavily modifies early game, impact throughout
 [![Tin](https://raw.githubusercontent.com/brevven/tin/main/thumbnail.png)](https://mods.factorio.com/mod/bztin)|😭😭+|Adds tin ore and plates, solder, and organotins|Modifies circuits and entities with pipes, tweak to plastic
 [![Natural Gas](https://raw.githubusercontent.com/brevven/bzgas/main/thumbnail.png)](https://mods.factorio.com/mod/bzgas)|😭😭|Adds natural gas, drilling rigs, and early plastic|Modifies early game circuits, other minor tweaks
-[![Salt & Chlorine](https://raw.githubusercontent.com/brevven/chlorine/main/thumbnail.png)](https://mods.factorio.com/mod/bzchlorine)|😭😭😭😭😭|Adds salt, chlorine, and many intermediates. Reworks advanced circuits.
+[![Salt & Chlorine](https://raw.githubusercontent.com/brevven/chlorine/main/thumbnail.png)](https://mods.factorio.com/mod/bzchlorine)|😭😭😭😭😭|Adds salt, chlorine, and many intermediates.|Reworks advanced circuits, other minor tweaks
 [![Foundry](https://raw.githubusercontent.com/brevven/foundry/main/thumbnail.png)](https://mods.factorio.com/mod/bzfoundry)|😭😭+|Adds the foundry building, and optional coke|Changes steel and other recipes, complexity scales with other mods
 
 
