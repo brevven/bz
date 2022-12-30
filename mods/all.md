@@ -16,5 +16,13 @@ Mod | Complexity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Additions | Stage
 [![Salt & Chlorine](https://raw.githubusercontent.com/brevven/chlorine/main/thumbnail.png)](https://mods.factorio.com/mod/bzchlorine)|😭😭😭😭😭|Adds salt, chlorine, and many intermediates.|Reworks advanced circuits, other minor tweaks
 [![Foundry](https://raw.githubusercontent.com/brevven/foundry/main/thumbnail.png)](https://mods.factorio.com/mod/bzfoundry)|😭😭+|Adds the foundry building, and optional coke|Changes steel and other recipes, complexity scales with other mods
 
+# Modpacks
+
+Mod | Difficulty&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Additions | Feel
+--|--|--|--
+[![BZ Bee: Basic Metals](https://raw.githubusercontent.com/brevven/basics/master/thumbnail.png)](https://mods.factorio.com/mod/bzbbasics)|2/10|Titanium, Lead, Tungsten|Broadens the game with a few metals
+[![BZ Bee: Basic Electronics](https://raw.githubusercontent.com/brevven/electronics/master/thumbnail.png)](https://mods.factorio.com/mod/bzbelectronics)|4/10|Graphte & Diamonds, Tin, Natural Gas|Reworks green circuits + more
+[![BZ Bee: Intermediates](https://raw.githubusercontent.com/brevven/intermediates/master/thumbnail.png)](https://mods.factorio.com/mod/bzbintermediates)|5/10|Aluminum, Zirconium, Silica & Silicon, Foundry|More complex production lines
+[![Very BZ](https://raw.githubusercontent.com/brevven/bzvery/master/thumbnail.png)](https://mods.factorio.com/mod/bzvery)|10/10|Everything out of alpha, including above modpacks|not quite an overhaul
 
 
