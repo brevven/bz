@@ -4,6 +4,11 @@
 
 ![BZ mod choice flow diagram](https://lucid.app/publicSegments/view/b77ce2f0-1601-4003-ba3a-e12e999b6453/image.png)
 
+
+[BZ Bees: Basic Metals](https://mods.factorio.com/mod/bzbbasics)|[BZ Bees: Basic Electronics](https://mods.factorio.com/mod/bzbelectronics)|[BZ Bees: Intermediates](https://mods.factorio.com/mod/bzbintermediates)|[Very BZ](https://mods.factorio.com/mod/bzvery)
+--|--|--|--
+
+
 There you go! That should be all you need to get started.
 
 ----
