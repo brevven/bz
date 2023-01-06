@@ -18,6 +18,8 @@ Mod | Complexity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Additions | Stage
 
 # Modpacks
 
+Currently, BZ supports a mix of modpacks. [more information](https://brevven.github.io/bz/)
+
 Mod | Difficulty&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Additions | Feel
 --|--|--|--
 [![BZ Bee: Basic Metals](https://raw.githubusercontent.com/brevven/basics/master/thumbnail.png)](https://mods.factorio.com/mod/bzbbasics)|2/10|Titanium, Lead, Tungsten|Broadens the game with a few metals
