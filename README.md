@@ -1,6 +1,8 @@
 # A Quick Introduction to BZ Mods
 
-[BZ mods](https://forums.factorio.com/viewtopic.php?f=190&t=98515) will always support [picking and choosing](https://brevven.github.io/bz/mods/all) your own loadout, so you can choose one or two and just get started. But if you like, here's a guide to get you started.
+[Go here for a note on progress in updating to Space Age & 2.0](https://forums.factorio.com/viewtopic.php?f=190&t=98515)
+
+BZ mods will always support [picking and choosing](https://brevven.github.io/bz/mods/all) your own loadout, so you can choose one or two and just get started. But if you like, here's a guide to get you started.
 
 ![BZ mod choice flow diagram](https://lucid.app/publicSegments/view/b77ce2f0-1601-4003-ba3a-e12e999b6453/image.png)
 
